@@ -17,7 +17,7 @@
 ---
 
 # Educational Background
- - 2019.9-prsent   Harbin Institute of Technology   B.E.
+ - 2019.9-prsent   Harbin Institute of Technology   B.E.  
   (Project 211, Project 985, Double First-Class University Project)
    Major: Cyberspace Security
    Main courses ：Calculus, Linear Algebra, Probability and Statistics, Physics for College,  Basics of 
