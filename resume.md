@@ -27,11 +27,11 @@
 ---
 
 # Projects and Results
-2019.10-2020.01 Basic Operation of Microcontroller (Self-taught)  
-During the winter vacation, I purchased a small MCU developing board, with which I taught myself the basic  
-operation of Microcontroller. Applying the software Keil, I coded with my classmates and then programmed it  
-into the controller through STC-ISP, realizing the application of a self-tracing robot. This experience has  
-greatly cultivated my abilities of independent learning, problem solving, as well as logic for programming.
+- 2019.10-2020.01 Basic Operation of Microcontroller (Self-taught)  
+  During the winter vacation, I purchased a small MCU developing board, with which I taught myself the basic  
+  operation of Microcontroller. Applying the software Keil, I coded with my classmates and then programmed it  
+  into the controller through STC-ISP, realizing the application of a self-tracing robot. This experience has  
+  greatly cultivated my abilities of independent learning, problem solving, as well as logic for programming.
 
 ---
 
