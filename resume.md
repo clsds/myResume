@@ -40,4 +40,4 @@ During the winter vacation, I purchased a small MCU developing board, with which
 
 ---
 
-# Thanks for reading.
+# Thanks for reading
