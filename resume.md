@@ -36,10 +36,12 @@
 ---
 
 # Certificates and Skills
- - Language: College English Test Brand 4 (Scored 571)  
+ - Language:  
+          College English Test Brand 4 (Scored 571)  
           College English Test Brand 6 (Scored 520)  
           IELTS(Scored 6.5, listening 7.5, reading 6.5, writing 6, speaking 6)  
- - Computer Science: Proficiency in C/C++ and Python  
+ - Computer Science:   
+          Proficiency in C/C++ and Python  
 
 ---
 
