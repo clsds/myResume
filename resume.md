@@ -11,7 +11,7 @@
  - Li Jinqi
  - Gender: Male
  - Date of Birth: 06/07/2001
- - Bachelors student/Harbin Institute of Technology(weihai)/Cyberspace Security
+ - Bachelors student /Harbin Institute of Technology(weihai) /Cyberspace Security
  - Graduation Year:2023
 
 ---
